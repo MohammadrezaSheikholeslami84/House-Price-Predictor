@@ -44,6 +44,8 @@ The model is built using several regression algorithms, including:
 - **K-Nearest Neighbors Regressor**: A non-parametric algorithm that predicts house prices based on the k-nearest data points.
 - **Decision Tree Regressor**: A tree-based model that splits data into branches based on feature values.
 
+![image](https://github.com/user-attachments/assets/441b81be-692c-4e18-8766-82458c4a4b3b)
+
 ### Steps:
 1. **Data Preprocessing**: Handling missing values, encoding categorical variables, and scaling numeric features.
 2. **Model Training**: Training multiple regression models and selecting the best one based on evaluation metrics.
